@@ -72,7 +72,7 @@ public class DaoImpl {
     }
 
     public String buildParagraph() {
-        int sentenceNum = random.nextInt(2) + 4;
+        int sentenceNum = random.nextInt(2) + 6;
         StringBuilder sb = new StringBuilder();
         sb.append("\t");
         for (int i = 0; i < sentenceNum; i++) {

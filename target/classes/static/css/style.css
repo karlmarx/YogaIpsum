@@ -1,11 +1,16 @@
 body {
-    color: #EAA11B;
-    background-color: black;
-    font-family: 'Fredoka One', cursive;
+    color: white;
+    background-color: midnightblue;
+    font-family: 'Prosto One', cursive;
 }
 .jumbotron{
-    background-color: #EAA11B;
-    color: black;
+    background-color: white;
+    color: midnightblue;
     font-size: 150%;
     text-align:center;
 }
+/*font-family: 'Sue Ellen Francisco', cursive;*/
+/*font-family: 'Bungee', cursive;*/
+/*font-family: 'Nova Square', cursive;*/
+/*font-family: 'Expletus Sans', cursive;*/
+/*font-family: 'Prosto One', cursive;*/
