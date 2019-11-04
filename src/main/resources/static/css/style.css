@@ -1,0 +1,11 @@
+body {
+    color: #EAA11B;
+    background-color: black;
+    font-family: 'Fredoka One', cursive;
+}
+.jumbotron{
+    background-color: #EAA11B;
+    color: black;
+    font-size: 150%;
+    text-align:center;
+}
