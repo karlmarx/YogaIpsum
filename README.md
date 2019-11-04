@@ -1,2 +1,2 @@
-# LoremIpsOMMMM
- Yoga Ipsom Generator
+# YogaIpsom
+ Yoga-flavoured Lorem Ipsum Generator
